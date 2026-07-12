@@ -1,0 +1,35 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/Usuario/Documents/GitHub/ProductoPrueba/ProductoPueba/Content/Fab/Robot_Variant_Set/BOT_Speech_Bubbles.uasset",
+				"C:/Users/Usuario/Documents/GitHub/ProductoPrueba/ProductoPueba/Content/Fab/Robot_Variant_Set/BOT_Speech_Bubbles_EM.uasset",
+				"C:/Users/Usuario/Documents/GitHub/ProductoPrueba/ProductoPueba/Content/Fab/Robot_Variant_Set/Bot_Variant_1.uasset",
+				"C:/Users/Usuario/Documents/GitHub/ProductoPrueba/ProductoPueba/Content/Fab/Robot_Variant_Set/Error_Glowing.uasset",
+				"C:/Users/Usuario/Documents/GitHub/ProductoPrueba/ProductoPueba/Content/Fab/Robot_Variant_Set/Eyes.uasset",
+				"C:/Users/Usuario/Documents/GitHub/ProductoPrueba/ProductoPueba/Content/Fab/Robot_Variant_Set/General_Gray.uasset",
+				"C:/Users/Usuario/Documents/GitHub/ProductoPrueba/ProductoPueba/Content/Fab/Robot_Variant_Set/Icons.uasset",
+				"C:/Users/Usuario/Documents/GitHub/ProductoPrueba/ProductoPueba/Content/Fab/Robot_Variant_Set/Jets.uasset",
+				"C:/Users/Usuario/Documents/GitHub/ProductoPrueba/ProductoPueba/Content/Fab/Robot_Variant_Set/Jets_EM.uasset",
+				"C:/Users/Usuario/Documents/GitHub/ProductoPrueba/ProductoPueba/Content/Fab/Robot_Variant_Set/Jetstream.uasset",
+				"C:/Users/Usuario/Documents/GitHub/ProductoPrueba/ProductoPueba/Content/Fab/Robot_Variant_Set/Player_Bot.uasset",
+				"C:/Users/Usuario/Documents/GitHub/ProductoPrueba/ProductoPueba/Content/Fab/Robot_Variant_Set/Player_Bot1.uasset",
+				"C:/Users/Usuario/Documents/GitHub/ProductoPrueba/ProductoPueba/Content/Fab/Robot_Variant_Set/Player_DF.uasset",
+				"C:/Users/Usuario/Documents/GitHub/ProductoPrueba/ProductoPueba/Content/Fab/Robot_Variant_Set/Player_EM.uasset",
+				"C:/Users/Usuario/Documents/GitHub/ProductoPrueba/ProductoPueba/Content/Fab/Robot_Variant_Set/Player_Error_EM.uasset",
+				"C:/Users/Usuario/Documents/GitHub/ProductoPrueba/ProductoPueba/Content/Fab/Robot_Variant_Set/Player_Error_TR.uasset",
+				"C:/Users/Usuario/Documents/GitHub/ProductoPrueba/ProductoPueba/Content/Fab/Robot_Variant_Set/Player_Eyes.uasset",
+				"C:/Users/Usuario/Documents/GitHub/ProductoPrueba/ProductoPueba/Content/Fab/Robot_Variant_Set/Player_Eyes_EM.uasset",
+				"C:/Users/Usuario/Documents/GitHub/ProductoPrueba/ProductoPueba/Content/Fab/Robot_Variant_Set/RoboVar_1.uasset",
+				"C:/Users/Usuario/Documents/GitHub/ProductoPrueba/ProductoPueba/Content/Fab/Robot_Variant_Set/RoboVar_1x.uasset",
+				"C:/Users/Usuario/Documents/GitHub/ProductoPrueba/ProductoPueba/Content/Fab/Robot_Variant_Set/RoboVar_2.uasset",
+				"C:/Users/Usuario/Documents/GitHub/ProductoPrueba/ProductoPueba/Content/Fab/Robot_Variant_Set/Variant_2.uasset",
+				"C:/Users/Usuario/Documents/GitHub/ProductoPrueba/ProductoPueba/Content/Fab/Robot_Variant_Set/robot_variant_examples.uasset",
+				"C:/Users/Usuario/Documents/GitHub/ProductoPrueba/ProductoPueba/Content/ProductAssets/VariantSet.uasset"
+			]
+		}
+	]
+}
