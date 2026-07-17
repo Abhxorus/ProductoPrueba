@@ -1,10 +1,17 @@
-[17112:24252:0716/210738.984:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
-[17112:11336:0716/210739.132:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
-[17112:24252:0716/210739.157:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
-[17112:24252:0716/210753.171:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[12452:17968:0716/210758.483:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-559C27D1C4A2C32AD9831683FFD6E107 will be ignored
-[17112:26864:0716/210801.894:ERROR:cast_crl.cc(443)] CRL - Verification failed.
-[17112:24252:0716/210912.910:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[17112:24252:0716/211013.150:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[17112:24252:0716/211018.177:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[17112:24252:0716/220209.560:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
+[25980:11360:0716/221622.253:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[25980:6964:0716/221622.415:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[25980:11360:0716/221622.450:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[1608:15336:0716/221634.487:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-136985348BD6DF9005DCC2DDC49F11DF will be ignored
+[25980:19312:0716/221636.344:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[25992:7776:0716/221715.766:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 9-3FFEC2E70EB18B58DB4873B29E512931 will be ignored
+[23540:15212:0716/221737.982:WARNING:angle_platform_impl.cc(49)] HLSLCompiler.cpp:250 (rx::HLSLCompiler::compileToBinary): 
+C:\fakepath(103,1-6): warning X4000: use of potentially uninitialized variable (dyn_index_vec4_float4_int)
+
+[23540:3540:0716/221738.154:WARNING:angle_platform_impl.cc(49)] HLSLCompiler.cpp:250 (rx::HLSLCompiler::compileToBinary): 
+C:\fakepath(136,1): warning X4000: use of potentially uninitialized variable (f_i_int_int_int2)
+C:\fakepath(138,1): warning X4000: use of potentially uninitialized variable (f_i_int_int_int2)
+C:\fakepath(174,1): warning X4000: use of potentially uninitialized variable (f_u_int_int_int)
+
+[25980:11360:0716/221746.793:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[25980:19312:0716/222224.996:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[25980:11360:0716/230621.267:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
